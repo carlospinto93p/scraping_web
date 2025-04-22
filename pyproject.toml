@@ -2,7 +2,7 @@
 name = "web-scraping"
 version = "0.1.0"
 description = "Web scraping tutorial"
-authors = ["Carlos Pinto Pérez <carlospinto93p@gmail.com>"]
+authors = ["Carlos Pinto Pérez <carlospinto4p@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
